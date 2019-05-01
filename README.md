@@ -8,7 +8,7 @@ Stocks of Coins is a mathematical Game of Strategy in which two Opponents take T
 In this Variant on each Turn, a Player and the PC Computer must remove/take any Number of Coins' Stack from one Row alternately.
 The one, who takes the last Stack of Coins loses.<br />
 <br />
-Carbonara is __FREE__ to download, play, share... <br />
+Carbonara is __FREE__ to download, use, share... <br />
 <br />
 Screenshot (v1.05): <br />
 ![Carbonara](https://raw.githubusercontent.com/Vrda-GF/Carbonara/master/static/img/CarbonaraMain.png)
