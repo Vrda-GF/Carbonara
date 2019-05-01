@@ -1,4 +1,4 @@
-# Carbonara
+# Carbonara - Under construction, coming soon...
 Computer Aided Research Boosts Optimization, Numerical And Regression Analysis<br />
 <br />
 Copyright © 2019 by Anton Vrdoljak <br />
@@ -11,8 +11,8 @@ The one, who takes the last Stack of Coins loses.<br />
 Carbonara is __FREE__ to download, play, share... <br />
 <br />
 Screenshot (v1.05): <br />
-![Carbonara](https://raw.githubusercontent.com/Vrda-GF/SoC/master/static/img/SoCmain.png)
+![Carbonara](https://raw.githubusercontent.com/Vrda-GF/Carbonara/master/static/img/CarbonaraMain.png)
 <br />
 <br />
-download: [Carbonara as compressed file](https://raw.githubusercontent.com/Vrda-GF/SoC/master/static/files/SoC.zip) <br />
+download (coming soon): [Carbonara as compressed file](https://raw.githubusercontent.com/Vrda-GF/Carbonara/master/static/files/Carbonara.zip) <br />
 email: anton.vrdoljak@gmail.com <br />
