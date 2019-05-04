@@ -13,5 +13,5 @@ Screenshot (v1.05): <br />
 ![Carbonara](https://raw.githubusercontent.com/Vrda-GF/Carbonara/master/static/img/CarbonaraMain.png)
 <br />
 <br />
-download (coming soon): [Carbonara as compressed file](https://raw.githubusercontent.com/Vrda-GF/Carbonara/master/static/files/Carbonara.zip) <br />
+download (v1.05): [Carbonara as compressed file](https://raw.githubusercontent.com/Vrda-GF/Carbonara/master/static/files/Carbonara_v1_05.zip) <br />
 email: anton.vrdoljak@gmail.com <br />
