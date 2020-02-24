@@ -10,7 +10,7 @@ Carbonara is __FREE__ to download, use, share... <br />
 ![Donate](https://github.com/Vrda-GF/Carbonara/blob/master/static/img/Donate.svg) [to Support Carbonara Development](https://www.paypal.com/en/cgi-bin/webscr?business=anton.vrdoljak@gmail.com&cmd=_xclick&currency_code=EUR&amount=4&item_name=Carbonara_Donation).<br />
 <br />
 Screenshot (v2.24): <br />
-![Carbonara](https://raw.githubusercontent.com/Vrda-GF/Carbonara/master/static/img/CarbonaraMain.png)
+![Carbonara](https://raw.githubusercontent.com/Vrda-GF/Carbonara/master/static/img/CarbonaraMain2.png)
 <br />
 <br />
 download (v2.24): [Carbonara as compressed file](https://raw.githubusercontent.com/Vrda-GF/Carbonara/master/static/files/Carbonara_v2_24.zip) <br />
